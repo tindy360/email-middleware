@@ -1,0 +1,19 @@
+{
+  "name": "email-middleware",
+  "version": "1.0.0",
+  "description": "email middleware example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tindy360/email-middleware.git"
+  },
+  "author": "Tom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tindy360/email-middleware/issues"
+  },
+  "homepage": "https://github.com/tindy360/email-middleware#readme"
+}
